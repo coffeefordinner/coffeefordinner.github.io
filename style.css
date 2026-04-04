@@ -3,10 +3,11 @@ body {
   max-width: 650px;
   line-height: 1.6;
   font-size: 18px;
-  color: #2596be;
+  background-color: #2596be;
 }
 
 h1, h2, h3
 {
-  line-height: 1.2
+  line-height: 1.2;
+  color: #000000
 }

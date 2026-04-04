@@ -11,3 +11,23 @@ h1, h2, h3
   line-height: 1.2;
   color: #000000
 }
+
+@media (max-width: 600px) {
+  body {
+    margin: 20px auto;
+    font-size: 16px;
+    padding: 0 12px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+}
